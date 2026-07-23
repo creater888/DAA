@@ -3,7 +3,6 @@ def linearSearch(arr,n,key):
         if arr[i]==key:
             return i
     return -1
-
 arr= [12,23,45,54,76]
 n=len(arr)
 key =54
